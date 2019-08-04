@@ -5,6 +5,7 @@ author: "Paul Le"
 categories: journal
 tags: [documentation,sample]
 image: mountains.jpg
+image1: spools.jpg
 ---
 
 费了好大的劲把博客搭起来，在写内容的时候却一时不知道从何下笔。从宝贝给我的书中找找灵感，同时发现由于博客是按照写作的顺序把最新的文章放在最前面，但这次时间有限，我要一次写多篇文章，我想干脆就以主题的形式呈现吧。

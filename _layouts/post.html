@@ -12,6 +12,10 @@ layout: default
 
 {{ content }}
 
+{% if page.image1 %}
+  <img src="{{ site.github.url }}/assets/img/{{ page.image1 }}">
+{% endif %}
+
 <span class="post-date">
   {{ site.data.settings.post_date_prefix }}
   {% assign d = page.date | date: "%-d"  %}
