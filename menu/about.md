@@ -1,18 +1,14 @@
 ---
 layout: page
-title: Welcome to Lagrange!
+title: 这是我为宝贝准备的七夕礼物!
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+宝贝真是世界上最好的女朋友了，考虑到我还要交学费，让我不要买贵重的礼物。虽然我觉得宝贝挑的米奇米妮情侣杯子也很棒，但我想，这毕竟七夕的时候没法送到宝贝手上啊，我也不想别人七夕的时候拿到礼物，我宝贝却没有。
 
-### Getting Started
+### 心路历程
 
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+原本构想的是建一个网站，上面有我们的照片摆成心形。然后点开每张图片，有我想和宝贝说的话，最后发现有点困难。好在在网上找到搭博客的方法，就想可以借用博客的形式来做这个礼物。S
 
-### Example Content
+### 后续
 
-[Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})
-
-### Questions?
-
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
+我觉得以后也可以把我们的故事生活写在这上面，记录下来。

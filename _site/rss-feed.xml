@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
-		<title>张梓琪我爱你</title>
+		<title>占俊坚永远爱张梓琪</title>
 		<description>给宝贝的七夕礼物</description>
 		<link></link>
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>Welcome to Lagrange!</title>
+				<title>我们的故事</title>
 				
 					<dc:creator>Paul Le</dc:creator>
 				
 				
-					<description>&lt;p&gt;Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.&lt;/p&gt;
+					<description>&lt;p&gt;费了好大的劲把博客搭起来，在写内容的时候却一时不知道从何下笔。从宝贝给我的书中找找灵感，同时发现由于博客是按照写作的顺序把最新的文章放在最前面，但这次时间有限，我要一次写多篇文章，我想干脆就以主题的形式呈现吧。&lt;/p&gt;
 
 </description>
 				

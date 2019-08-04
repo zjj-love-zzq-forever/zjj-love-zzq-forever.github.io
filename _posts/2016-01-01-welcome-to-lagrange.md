@@ -1,21 +1,21 @@
 ---
 layout: post
-title: "Welcome to Lagrange!"
+title: 我们的故事
 author: "Paul Le"
 categories: journal
 tags: [documentation,sample]
 image: mountains.jpg
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+费了好大的劲把博客搭起来，在写内容的时候却一时不知道从何下笔。从宝贝给我的书中找找灵感，同时发现由于博客是按照写作的顺序把最新的文章放在最前面，但这次时间有限，我要一次写多篇文章，我想干脆就以主题的形式呈现吧。
 
-## Getting Started
+## 初见
 
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+两年前的夏天，我们第一次相遇，初次印象，这个女孩子真好，会画画，不争不抢，安静地做事。emmm,后来我把你的辛辛苦苦做好的ppt拿来却讲砸了的经历我们以后就不提了吧嘿嘿。
 
-## Example Content
+## 又见
 
-[Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})
+缘分这东西真是奇妙阿。
 
 ## Questions?
 
