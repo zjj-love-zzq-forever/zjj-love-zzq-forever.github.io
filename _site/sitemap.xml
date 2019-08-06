@@ -21,6 +21,14 @@
 <lastmod>2016-01-01T00:00:00+08:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/journal/gift.html</loc>
+<lastmod>2019-08-06T00:00:00+08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/journal/sleep.html</loc>
+<lastmod>2019-08-06T00:00:00+08:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/menu/about.html</loc>
 </url>
 <url>
@@ -31,5 +39,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/menu/writing.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page2/</loc>
 </url>
 </urlset>
