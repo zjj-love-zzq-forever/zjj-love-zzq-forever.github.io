@@ -7,18 +7,18 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>喜欢看你睡觉</title>
+				<title>我们的故事</title>
 				
 					<dc:creator>Paul Le</dc:creator>
 				
 				
-					<description>&lt;p&gt;之前拍了很多宝贝睡觉的照片。&lt;/p&gt;
+					<description>&lt;h2 id=&quot;初见&quot;&gt;初见&lt;/h2&gt;
 
 </description>
 				
-				<pubDate>Tue, 06 Aug 2019 00:00:00 +0800</pubDate>
-				<link>http://localhost:4000/journal/sleep.html</link>
-				<guid isPermaLink="true">http://localhost:4000/journal/sleep.html</guid>
+				<pubDate>Wed, 07 Aug 2019 00:00:00 +0800</pubDate>
+				<link>http://localhost:4000/journal/ourstory.html</link>
+				<guid isPermaLink="true">http://localhost:4000/journal/ourstory.html</guid>
 			</item>
 		
 			<item>
@@ -37,77 +37,18 @@
 			</item>
 		
 			<item>
-				<title>我们的故事</title>
+				<title>喜欢宝贝在我旁边睡觉</title>
 				
-					<dc:creator>Paul Le</dc:creator>
+					<dc:creator>占俊坚</dc:creator>
 				
 				
-					<description>&lt;p&gt;费了好大的劲把博客搭起来，在写内容的时候却一时不知道从何下笔。从宝贝给我的书中找找灵感，同时发现由于博客是按照写作的顺序把最新的文章放在最前面，但这次时间有限，我要一次写多篇文章，我想干脆就以主题的形式呈现吧。&lt;/p&gt;
+					<description>&lt;h3 id=&quot;嗅觉依赖&quot;&gt;嗅觉依赖&lt;/h3&gt;
 
 </description>
 				
-				<pubDate>Fri, 01 Jan 2016 00:00:00 +0800</pubDate>
-				<link>http://localhost:4000/journal/welcome-to-lagrange.html</link>
-				<guid isPermaLink="true">http://localhost:4000/journal/welcome-to-lagrange.html</guid>
-			</item>
-		
-			<item>
-				<title>Getting Started</title>
-				
-					<dc:creator>Paul Le</dc:creator>
-				
-				
-					<description>&lt;h1 id=&quot;lagrange&quot;&gt;Lagrange&lt;/h1&gt;
-
-</description>
-				
-				<pubDate>Sat, 10 Oct 2015 00:00:00 +0800</pubDate>
-				<link>http://localhost:4000/journal/getting-started.html</link>
-				<guid isPermaLink="true">http://localhost:4000/journal/getting-started.html</guid>
-			</item>
-		
-			<item>
-				<title>Text Formatting Examples</title>
-				
-					<dc:creator>Paul Le</dc:creator>
-				
-				
-					<description>&lt;h1 id=&quot;markdown-support&quot;&gt;Markdown Support&lt;/h1&gt;
-
-</description>
-				
-				<pubDate>Wed, 01 Jan 2014 00:00:00 +0800</pubDate>
-				<link>http://localhost:4000/journal/text-formatting-examples.html</link>
-				<guid isPermaLink="true">http://localhost:4000/journal/text-formatting-examples.html</guid>
-			</item>
-		
-			<item>
-				<title>Learning Resources</title>
-				
-					<dc:creator>Paul Le</dc:creator>
-				
-				
-					<description>&lt;p&gt;The beauty of computer programming is that you do not need to formally go to school to learn how to program. You can learn almost everything that you would need to know online, and for free. The following resources are some that I have used personally, that I highly recommend, for anyone looking to learn more about computer programming.&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Thu, 10 Oct 2013 00:00:00 +0800</pubDate>
-				<link>http://localhost:4000/journal/learning-resources.html</link>
-				<guid isPermaLink="true">http://localhost:4000/journal/learning-resources.html</guid>
-			</item>
-		
-			<item>
-				<title>About the Author</title>
-				
-					<dc:creator>Paul Le</dc:creator>
-				
-				
-					<description>&lt;p&gt;Hi there! I’m Paul. I’m a physics major turned programmer. Ever since I first learned how to program while taking a scientific computing for physics course, I have pursued programming as a passion, and as a career. Check out &lt;a href=&quot;https://www.lenpaul.com/&quot;&gt;my personal website&lt;/a&gt; for more information on my other projects (including more Jekyll themes!), as well as some of my writing.&lt;/p&gt;
-</description>
-				
-				<pubDate>Thu, 04 Apr 2013 00:00:00 +0800</pubDate>
-				<link>http://localhost:4000/journal/about-the-author.html</link>
-				<guid isPermaLink="true">http://localhost:4000/journal/about-the-author.html</guid>
+				<pubDate>Tue, 06 Aug 2019 00:00:00 +0800</pubDate>
+				<link>http://localhost:4000/journal/gift-(copy).html</link>
+				<guid isPermaLink="true">http://localhost:4000/journal/gift-(copy).html</guid>
 			</item>
 		
 	</channel>
