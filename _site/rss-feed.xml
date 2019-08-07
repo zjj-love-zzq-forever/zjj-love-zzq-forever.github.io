@@ -9,7 +9,7 @@
 			<item>
 				<title>我们的故事</title>
 				
-					<dc:creator>Paul Le</dc:creator>
+					<dc:creator>占俊坚</dc:creator>
 				
 				
 					<description>&lt;h2 id=&quot;初见&quot;&gt;初见&lt;/h2&gt;
@@ -19,21 +19,6 @@
 				<pubDate>Wed, 07 Aug 2019 00:00:00 +0800</pubDate>
 				<link>http://localhost:4000/journal/ourstory.html</link>
 				<guid isPermaLink="true">http://localhost:4000/journal/ourstory.html</guid>
-			</item>
-		
-			<item>
-				<title>永远浪漫</title>
-				
-					<dc:creator>Paul Le</dc:creator>
-				
-				
-					<description>&lt;p&gt;关于宝贝送我的礼物，我会立马想到宝贝的那条微博“永远浪漫”。我猜到这是宝贝给我准备七夕礼物时的感想。宝贝真是个浪漫的人啊，总是有很多的想法。&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Tue, 06 Aug 2019 00:00:00 +0800</pubDate>
-				<link>http://localhost:4000/journal/gift.html</link>
-				<guid isPermaLink="true">http://localhost:4000/journal/gift.html</guid>
 			</item>
 		
 			<item>
@@ -47,8 +32,23 @@
 </description>
 				
 				<pubDate>Tue, 06 Aug 2019 00:00:00 +0800</pubDate>
-				<link>http://localhost:4000/journal/gift-(copy).html</link>
-				<guid isPermaLink="true">http://localhost:4000/journal/gift-(copy).html</guid>
+				<link>http://localhost:4000/journal/sleep.html</link>
+				<guid isPermaLink="true">http://localhost:4000/journal/sleep.html</guid>
+			</item>
+		
+			<item>
+				<title>永远浪漫</title>
+				
+					<dc:creator>占俊坚</dc:creator>
+				
+				
+					<description>&lt;p&gt;关于宝贝送我的礼物，我会立马想到宝贝的那条微博“永远浪漫”。我猜到这是宝贝给我准备七夕礼物时的感想。宝贝真是个浪漫的人啊，总是有很多的想法。&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Tue, 06 Aug 2019 00:00:00 +0800</pubDate>
+				<link>http://localhost:4000/journal/gifts.html</link>
+				<guid isPermaLink="true">http://localhost:4000/journal/gifts.html</guid>
 			</item>
 		
 	</channel>
