@@ -141,6 +141,21 @@
   
 </span>
 
+<div id="gitmentContainer"></div>
+<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+<script>
+var gitment = new Gitment({
+    owner: 'zjj-love-zzq-forever',
+    repo: 'zjj-love-zzq-forever.github.io',
+    oauth: {
+        client_id: '1991bf71c600ad343e77',
+        client_secret: '7c3d5ce61e39cfcd26f56828fd4dd8a023edff84',
+    },
+});
+gitment.render('gitmentContainer');
+</script>
+
 <!--<div class="post-date">Feel free to share!</div>
   <div class="sharing-icons">
     <a href="https://twitter.com/intent/tweet?text=喜欢宝贝在我旁边睡觉&amp;url=/journal/sleep.html" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
