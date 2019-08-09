@@ -7,6 +7,20 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>新功能上线，可以评论听歌！</title>
+				
+					<dc:creator>占俊坚</dc:creator>
+				
+				
+					<description>&lt;p&gt;新功能上线啦，请大家尽情评论还有音乐听哦，这次先放我宝贝的BGM，嘿嘿。&lt;/p&gt;
+</description>
+				
+				<pubDate>Fri, 09 Aug 2019 00:00:00 +0800</pubDate>
+				<link>http://localhost:4000/journal/music.html</link>
+				<guid isPermaLink="true">http://localhost:4000/journal/music.html</guid>
+			</item>
+		
+			<item>
 				<title>我们的故事</title>
 				
 					<dc:creator>占俊坚</dc:creator>
