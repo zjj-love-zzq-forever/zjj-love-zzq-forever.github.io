@@ -7,6 +7,21 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>骑着四轮车养你</title>
+				
+					<dc:creator>占俊坚</dc:creator>
+				
+				
+					<description>&lt;p&gt;今天宝贝的动车因为遇上台风停运了，早上我看到这个消息的时候很惊讶，一时也没想清楚，只顾着说些安慰的没用的话。我现在明白作为男朋友或者哪怕只是一般的朋友碰到这种情况都应该是想办法解决而不是说些没用的话让人觉得心烦。&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Sat, 10 Aug 2019 00:00:00 +0800</pubDate>
+				<link>http://localhost:4000/journal/keepintouch.html</link>
+				<guid isPermaLink="true">http://localhost:4000/journal/keepintouch.html</guid>
+			</item>
+		
+			<item>
 				<title>新功能上线，可以评论听歌！</title>
 				
 					<dc:creator>占俊坚</dc:creator>
